@@ -6,3 +6,13 @@
 
 #IncludeRegexTransform: 
 
+D:/NIR_dir/os/os/4_1/main.cpp
+windows.h
+-
+iostream
+-
+string
+-
+iomanip
+-
+
