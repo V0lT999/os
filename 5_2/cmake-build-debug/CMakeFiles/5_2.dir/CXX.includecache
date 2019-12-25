@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/NIR_dir/os/os/5_2/main.cpp
+iostream
+-
+omp.h
+-
+Windows.h
+-
+iomanip
+-
+chrono
+-
+ctime
+-
+
