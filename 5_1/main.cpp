@@ -5,7 +5,7 @@
 
 HANDLE *threads;
 HANDLE *events;
-const int N = 100000000; //100M
+const int N = 10000000; //10M
 const int blocksize = 730720 * 10;
 const int numBlocks = N / blocksize + 1;
 int *blockArray;

@@ -1,0 +1,5 @@
+﻿  client.cpp
+D:\NIR_dir\os\os\client\client\client.cpp(17,13): warning C4101:  y: неиспользованная локальная переменная
+D:\NIR_dir\os\os\client\client\client.cpp(18,7): warning C4101:  f: неиспользованная локальная переменная
+D:\NIR_dir\os\os\client\client\client.cpp(17,16): warning C4101:  i: неиспользованная локальная переменная
+  client.vcxproj -> D:\NIR_dir\os\os\client\Debug\client.exe

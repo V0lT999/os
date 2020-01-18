@@ -303,7 +303,8 @@ int main()
                 cin >> s;
                 cout << "\n" << "Adress memory: 0x" << hex << (unsigned long)a << dec << endl;
 
-                CopyMemory(a, s.c_str(), sizeof(char) * s.length());
+                try{
+                    CopyMemory(a, s.c_str(), sizeof(char) * s.length());
 
                 cout << "Information of memory: ";
                 for (int i = 0; i < 20; i++)
@@ -312,11 +313,17 @@ int main()
 
                 //VirtualFree(a, 0, MEM_RELEASE);
                 break;
+                }
+                catch(int e){
+                    cout << "no success";
+                }
             }
             case 8:
                 cout << "Press adress: ";
                 cin >> adr;
-                VirtualFree(adr, 4096, MEM_RELEASE);
+                if(VirtualFree(adr, 0, MEM_RELEASE)){
+                    cout << "Success\n";
+                }
         }
 
         cout << endl << endl;

@@ -1,0 +1,3 @@
+﻿reader.obj : error LNK2005: _main уже определен в 6lab.obj
+writer.obj : error LNK2005: _main уже определен в 6lab.obj
+D:\NIR_dir\os\os\6lab\Debug\6lab.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более

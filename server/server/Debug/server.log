@@ -1,0 +1,6 @@
+﻿  server.cpp
+D:\NIR_dir\os\os\server\server\server.cpp(65,19): warning C4018:  <: несоответствие типов со знаком и без знака
+D:\NIR_dir\os\os\server\server\server.cpp(86,11): warning C4553:  "==": результат выражения не используется; вы хотели использовать "="?
+D:\NIR_dir\os\os\server\server\server.cpp(14,13): warning C4101:  y: неиспользованная локальная переменная
+D:\NIR_dir\os\os\server\server\server.cpp(15,7): warning C4101:  f: неиспользованная локальная переменная
+  server.vcxproj -> D:\NIR_dir\os\os\server\Debug\server.exe

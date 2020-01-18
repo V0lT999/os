@@ -1,0 +1,3 @@
+﻿  creator.cpp
+D:\NIR_dir\os\os\creator\creator\creator.cpp(27,34): warning C4244:  аргумент: преобразование "float" в "DWORD", возможна потеря данных
+  creator.vcxproj -> D:\NIR_dir\os\os\creator\Debug\creator.exe
