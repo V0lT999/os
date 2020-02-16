@@ -1,0 +1,3 @@
+D:/NIR_dir/os/os/5new/cmake-build-debug-mingw/CMakeFiles/5new.dir
+D:/NIR_dir/os/os/5new/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+D:/NIR_dir/os/os/5new/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

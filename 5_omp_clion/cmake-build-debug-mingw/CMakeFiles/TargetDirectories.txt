@@ -1,0 +1,4 @@
+D:/NIR_dir/os/os/5_omp_clion/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
+D:/NIR_dir/os/os/5_omp_clion/cmake-build-debug-mingw/CMakeFiles/openmp_test_clion.dir
+D:/NIR_dir/os/os/5_omp_clion/cmake-build-debug-mingw/CMakeFiles/5_omp_clion.dir
+D:/NIR_dir/os/os/5_omp_clion/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir

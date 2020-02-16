@@ -33,8 +33,7 @@ int main()
 	int q;
 	do
 	{
-		cout << "To exit enter 0" << endl;
-		cout << "Enter the number of threads: " << endl;
+		cout << "Enter the number of threads (0 to exit): ";
 		cin >> q;
 		if (q) {
 			auto start = std::chrono::system_clock::now();
